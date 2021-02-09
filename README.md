@@ -4,4 +4,4 @@ Some random text!
 
 ## Local Devolopment
 
-1. open in texteditior
+1. open in texteditor
